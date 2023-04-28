@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on develop Roguelike 
 - 📫 How to reach me ...
+- partner : https://github.com/piconine5
 
 <!---
 JangHyunsoo/JangHyunsoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
